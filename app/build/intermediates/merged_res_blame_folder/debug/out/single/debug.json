@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-anydpi-v26_resepmasakan.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-anydpi-v26/resepmasakan.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxhdpi_resepmasakan_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxhdpi/resepmasakan_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_bg_circle_radius_primary.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/bg_circle_radius_primary.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_resepmasakan_background.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/resepmasakan_background.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-mdpi_resepmasakan_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-mdpi/resepmasakan_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_activity_detail_recipe.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/activity_detail_recipe.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-hdpi_resepmasakan.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-hdpi/resepmasakan.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxhdpi_resepmasakan.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxhdpi/resepmasakan.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxxhdpi_resepmasakan_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxxhdpi/resepmasakan_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_list_item_categories.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/list_item_categories.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.fikri.resepmakanan.app-pngs-13:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_ic_play.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-mdpi_resepmasakan_foreground.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-mdpi/resepmasakan_foreground.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-anydpi_ic_back.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-anydpi/ic_back.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxxhdpi_ic_favorite.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxxhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-mdpi_resepmasakan.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-mdpi/resepmasakan.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxhdpi_resepmasakan_foreground.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxhdpi/resepmasakan_foreground.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xhdpi_resepmasakan_foreground.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xhdpi/resepmasakan_foreground.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-hdpi_resepmasakan_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-hdpi/resepmasakan_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxxhdpi_ic_profile.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxxhdpi/ic_profile.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxxhdpi_resepmasakan.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxxhdpi/resepmasakan.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xhdpi_resepmasakan.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xhdpi/resepmasakan.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxhdpi_ic_back.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxxhdpi_ic_notif.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxxhdpi/ic_notif.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xhdpi_ic_back.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-anydpi-v26_resepmasakan_round.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-anydpi-v26/resepmasakan_round.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-hdpi_resepmasakan_foreground.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-hdpi/resepmasakan_foreground.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-hdpi_ic_back.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_ic_link.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/ic_link.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_list_item_filter_food.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/list_item_filter_food.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xxxhdpi_resepmasakan_foreground.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xxxhdpi/resepmasakan_foreground.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_toolbar_main.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/toolbar_main.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-xxxhdpi_shadow_white.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-xxxhdpi/shadow_white.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/layout_activity_filter_food.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/layout/activity_filter_food.xml"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable-mdpi_ic_back.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable-mdpi/ic_back.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/mipmap-xhdpi_resepmasakan_round.png.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/mipmap-xhdpi/resepmasakan_round.png"
+    },
+    {
+        "merged": "com.fikri.resepmakanan.app-merged_res-18:/drawable_bg_search.xml.flat",
+        "source": "com.fikri.resepmakanan.app-main-20:/drawable/bg_search.xml"
+    }
+]

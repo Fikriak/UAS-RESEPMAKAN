@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/708cf1ccfd67bb4ee6a871e9045a9df0/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a3bc53b4af0682c49ed24f1dc0937c3/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/279734559b5121b22fa5b5a1747235d9/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2c811713967f27f600f3ced6a1844a64/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/d67a678f7649d1193a69786127b0fafd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e5953b04cb95ec3ac0cb1a54dd78d6f2/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/fikriakbarikarim/.gradle/caches/transforms-3/8d5fc0c1c9fe3cb41f809c8a27c4dc2f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e00bb2dabf5d4725672797749801da16/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a480a8ce9c2d83b46bfba9ab2254ab84/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a1eccbcca8d74c13bec9a862027afc8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1f8bad1ab74fbf13c76ca7c2dc0e1afe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/885af7e22d2527a6a5d7d0504f9977d3/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ff4c7c29dd3f84a417163bffc75e6384/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/acfd0ca1b3668a61269e68b64068d81e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2f832a310fcbb74830116196b12d1589/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/72477298ea3c67b4022a8fbde44d2f2b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/7fffbdbabf6a692825a6d51463e1f4ba/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ed758f4e469c74a959eed95a80f435ad/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/269bc3d0c53f0057755a38d71b6af535/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5632aad6f58dbd5a83c2b61e3d954f60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a3b37f558d52b7c5ebf3fd20ca8b9bad/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/915d612285970e376f2827b445f2b752/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1c9291df3fa4904b1935cf468ff6d33f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/858236a0771a77c8b02a8fd60c9ae850/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/3095c11fc44fd8b9a4deb6d98e56992a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/12aa12fc9546a426a2e23f0c408b8392/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9330f43c22d390e86fc4774d9cacf9a4/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/b2aca344049bf3cc403f453c54c6f7c8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/926bf98621bc8287739017f0fd79ed85/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5b7f2cce9f34fb8d220923e772fd2a8b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/36af4e9274db77ff3b57a21c9f028dba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/116e94e11a3f03b18c1f78054df407f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/708cf1ccfd67bb4ee6a871e9045a9df0/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/708cf1ccfd67bb4ee6a871e9045a9df0/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/fikriakbarikarim/.gradle/caches/transforms-3/8d5fc0c1c9fe3cb41f809c8a27c4dc2f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/fikriakbarikarim/.gradle/caches/transforms-3/8d5fc0c1c9fe3cb41f809c8a27c4dc2f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e00bb2dabf5d4725672797749801da16/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e00bb2dabf5d4725672797749801da16/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a480a8ce9c2d83b46bfba9ab2254ab84/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a480a8ce9c2d83b46bfba9ab2254ab84/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a3b37f558d52b7c5ebf3fd20ca8b9bad/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a3b37f558d52b7c5ebf3fd20ca8b9bad/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/3095c11fc44fd8b9a4deb6d98e56992a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/3095c11fc44fd8b9a4deb6d98e56992a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:11:9-55
+	android:icon
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:9:9-44
+	android:allowBackup
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.fikri.resepmakanan.activities.MainActivity
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:15:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.fikri.resepmakanan.activities.DetailRecipeActivity
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:22:19-66
+activity#com.fikri.resepmakanan.activities.FilterFoodActivity
+ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:23:9-67
+	android:name
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml:23:19-64
+uses-sdk
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/708cf1ccfd67bb4ee6a871e9045a9df0/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/708cf1ccfd67bb4ee6a871e9045a9df0/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a3bc53b4af0682c49ed24f1dc0937c3/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a3bc53b4af0682c49ed24f1dc0937c3/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/279734559b5121b22fa5b5a1747235d9/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/279734559b5121b22fa5b5a1747235d9/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2c811713967f27f600f3ced6a1844a64/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2c811713967f27f600f3ced6a1844a64/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/d67a678f7649d1193a69786127b0fafd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/d67a678f7649d1193a69786127b0fafd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e5953b04cb95ec3ac0cb1a54dd78d6f2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e5953b04cb95ec3ac0cb1a54dd78d6f2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/fikriakbarikarim/.gradle/caches/transforms-3/8d5fc0c1c9fe3cb41f809c8a27c4dc2f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/fikriakbarikarim/.gradle/caches/transforms-3/8d5fc0c1c9fe3cb41f809c8a27c4dc2f/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e00bb2dabf5d4725672797749801da16/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/e00bb2dabf5d4725672797749801da16/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a480a8ce9c2d83b46bfba9ab2254ab84/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a480a8ce9c2d83b46bfba9ab2254ab84/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a1eccbcca8d74c13bec9a862027afc8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9a1eccbcca8d74c13bec9a862027afc8/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1f8bad1ab74fbf13c76ca7c2dc0e1afe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1f8bad1ab74fbf13c76ca7c2dc0e1afe/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/885af7e22d2527a6a5d7d0504f9977d3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/885af7e22d2527a6a5d7d0504f9977d3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ff4c7c29dd3f84a417163bffc75e6384/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ff4c7c29dd3f84a417163bffc75e6384/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/acfd0ca1b3668a61269e68b64068d81e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/acfd0ca1b3668a61269e68b64068d81e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2f832a310fcbb74830116196b12d1589/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/2f832a310fcbb74830116196b12d1589/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/72477298ea3c67b4022a8fbde44d2f2b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/72477298ea3c67b4022a8fbde44d2f2b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/7fffbdbabf6a692825a6d51463e1f4ba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/7fffbdbabf6a692825a6d51463e1f4ba/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ed758f4e469c74a959eed95a80f435ad/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/ed758f4e469c74a959eed95a80f435ad/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/269bc3d0c53f0057755a38d71b6af535/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/269bc3d0c53f0057755a38d71b6af535/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5632aad6f58dbd5a83c2b61e3d954f60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5632aad6f58dbd5a83c2b61e3d954f60/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a3b37f558d52b7c5ebf3fd20ca8b9bad/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/a3b37f558d52b7c5ebf3fd20ca8b9bad/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/915d612285970e376f2827b445f2b752/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/915d612285970e376f2827b445f2b752/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1c9291df3fa4904b1935cf468ff6d33f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/1c9291df3fa4904b1935cf468ff6d33f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/858236a0771a77c8b02a8fd60c9ae850/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/858236a0771a77c8b02a8fd60c9ae850/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/24c283c8d2304b3598f8d106c679406b/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/3095c11fc44fd8b9a4deb6d98e56992a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/3095c11fc44fd8b9a4deb6d98e56992a/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/12aa12fc9546a426a2e23f0c408b8392/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/12aa12fc9546a426a2e23f0c408b8392/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9330f43c22d390e86fc4774d9cacf9a4/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/9330f43c22d390e86fc4774d9cacf9a4/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/b2aca344049bf3cc403f453c54c6f7c8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/b2aca344049bf3cc403f453c54c6f7c8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/926bf98621bc8287739017f0fd79ed85/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/926bf98621bc8287739017f0fd79ed85/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5b7f2cce9f34fb8d220923e772fd2a8b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/5b7f2cce9f34fb8d220923e772fd2a8b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/36af4e9274db77ff3b57a21c9f028dba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/36af4e9274db77ff3b57a21c9f028dba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/116e94e11a3f03b18c1f78054df407f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/fikriakbarikarim/.gradle/caches/transforms-3/116e94e11a3f03b18c1f78054df407f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fikriakbarikarim/AndroidStudioProjects/ResepMakanan/app/src/main/AndroidManifest.xml
